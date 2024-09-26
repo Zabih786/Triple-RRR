@@ -8,28 +8,22 @@ ADVA, a renowned beauty brand situated in Saudi Arabia, has embraced the digital
 
 SYSTEM FEATURES
 
-1. User-Friendly Interface:
-2. Product Catalog
-3. Search and Filters
-4. Shopping Cart
-5. Secure Checkout
-6. Order Tracking
-7. User Accounts
-8. Notifications:
-9. Product Reviews and Ratings
-10.  Promotions and Discounts
-11. Admin Dashboard
-12. Customer Support
+1. User-Friendly Interface
+2. Collaboration Insights
+3. Admin Controls
+4. Clients/Companies Info Management
+5. Requests Management
+6. Invoicing System
+7. Meeting Requests
+8. Meeting Requests
 
 TECNICALITIES/TOOLS USED
 
-1. Laravel
-2. ReactJS
-3. RESTAPIs
-4. Flutter
-5. Dart
-6. Payment Gateway
-7. AWS Hosting
+1. Nodejs
+2. Reactjs
+3. RestAPIs
+4. Real-time Chat.
+5. Webhooks
 
 SYSTEM SCREENSHOTS
 
